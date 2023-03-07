@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mkdir
+=======
+git pull https://github.com/Adonijah01/alx-zero_day.git
+>>>>>>> a860fc1883dc4cc881ea9a2dab3ea603e2fb7c6c
